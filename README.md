@@ -1,9 +1,9 @@
-## Hola, soy Carlos :alien:
+## Hi, I'm Carlos :alien:
 
 <p>
  <em>
-   Ingeniero Informatico de <a href="https://www.duoc.cl/">Duoc UC</a><br>
-   Desarrollador full stack en <a href="https://octo.is/">Octo inc</a><br>
+   Software engineer<br>
+   Full stack developer at<a href="https://octo.is/">Octo inc</a><br>
   </em>
 </p>
 
