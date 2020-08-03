@@ -17,11 +17,11 @@ const myself = {
         mobileApp: ["ionic"],
         database: ["postgres", "mySql"]
     },
-    inProgress: ["golang", "flask"]
+    inProgress: ["Golang", "flask"]
 }
 ```
 <p align="center">
- <img src="https://media.giphy.com/media/TgyJebqyMtPrOxiPdk/giphy.gif" width="550">
+ <img src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif" width="550">
 </p>
 
 <!--
