@@ -21,7 +21,7 @@ const myself = {
 }
 ```
 <p align="center">
- <img src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif" width="550">
+ <img src="https://user-images.githubusercontent.com/49846104/89431470-fbf67080-d70d-11ea-9c3a-e5bf59448de7.png" width="550">
 </p>
 
 <!--
