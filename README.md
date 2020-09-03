@@ -9,7 +9,7 @@
 
 ```javascript
 const myself = {
-    code: ["Javascript", "Typescript"],
+    code: ["Javascript", "Typescript", "Python"],
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies: {
         backEnd: ["nodejs", "express"],
