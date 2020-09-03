@@ -9,15 +9,15 @@
 
 ```javascript
 const myself = {
-    code: ["Javascript", "Typescript", "Python"],
+    code: ["Javascript", "Typescript", "Python", "Golang"],
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies: {
         backEnd: ["nodejs", "express"],
-        frontEnd: ["angular", "react"],
+        frontEnd: ["angular", "react", "redux"],
         mobileApp: ["ionic"],
         database: ["postgres", "mySql"]
     },
-    inProgress: ["Golang", "flask"]
+    inProgress: ["laravel", "flask"]
 }
 ```
 <p align="center">
