@@ -3,7 +3,7 @@
 <p>
  <em>
    Software engineer<br>
-   <!-- Full stack developer at <a href="https://gat-blac.com/">Gat Blac</a><br> -->
+   Developer at <a href="https://gat-blac.com/">Gat Blac</a><br>
   </em>
 </p>
 
