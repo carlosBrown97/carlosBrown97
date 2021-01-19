@@ -9,12 +9,12 @@
 
 ```javascript
 const myself = {
-    code: ["Javascript", "Typescript", "Python", "Golang"],
+    code: ["Javascript", "Typescript", "Python", "Golang", "Dart"],
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies: {
         backEnd: ["nodejs", "express"],
         frontEnd: ["angular", "react", "redux"],
-        mobileApp: ["ionic"],
+        mobileApp: ["ionic", "flutter"],
         database: ["postgres", "mySql"]
     },
     inProgress: ["laravel", "flask"]
