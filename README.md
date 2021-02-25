@@ -2,7 +2,7 @@
 
 <p>
  <em>
-   Software engineer<br>
+   <!-- Software engineer<br> -->
    Developer at <a href="https://gat-blac.com/">Gat Blac</a><br>
   </em>
 </p>
