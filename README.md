@@ -8,16 +8,15 @@
 </p>
 
 ```javascript
-const myself = {
-    code: ["Javascript", "Typescript", "Python", "Golang", "Dart"],
+const mySelf = {
+    code: ["Node JS", "Javascript", "Typescript", "Java", "Dart"],
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies: {
-        backEnd: ["nodejs", "express"],
-        frontEnd: ["angular", "react", "redux"],
-        mobileApp: ["ionic", "flutter"],
-        database: ["postgres", "mySql"]
+        backEnd: ["express", "nest js", "loopback", "spring boot"],
+        frontEnd: ["angular", "redux", "html", "css"],
+        mobileApp: ["flutter"],
+        database: ["postgres", "mySql", "mongodb"]
     },
-    inProgress: ["laravel", "flask"]
 }
 ```
 <p align="center">
