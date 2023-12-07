@@ -1,11 +1,5 @@
 ## Hi, I'm Carlos :alien:
 
-<p>
- <em>
-   <!-- Software engineer<br> -->
-   Developer at <a href="https://gat-blac.com/">Gat Blac</a><br>
-  </em>
-</p>
 
 ```javascript
 const mySelf = {
