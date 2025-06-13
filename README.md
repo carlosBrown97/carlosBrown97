@@ -4,10 +4,9 @@
 ```javascript
 const mySelf = {
     code: ["Node JS", "Javascript", "Typescript", "Java", "Dart"],
-    askMeAbout: ["app dev", "web dev", "tech"],
     technologies: {
         backEnd: ["express", "nest js", "loopback", "spring boot"],
-        frontEnd: ["angular", "redux", "html", "css"],
+        frontEnd: ["angular", "redux", "html", "css", "react"],
         mobileApp: ["flutter"],
         database: ["postgres", "mySql", "mongodb"]
     },
