@@ -3,9 +3,9 @@
 
 ```javascript
 const mySelf = {
-    code: ["Node JS", "Javascript", "Typescript", "Java", "Dart"],
+    code: ["Javascript", "Typescript", "Java", "Dart", "Go"],
     technologies: {
-        backEnd: ["express", "nest js", "loopback", "spring boot"],
+        backEnd: ["express js", "nest js", "loopback", "spring boot", "node js"],
         frontEnd: ["angular", "redux", "html", "css", "react"],
         mobileApp: ["flutter"],
         database: ["postgres", "mySql", "mongodb"]
